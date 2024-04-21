@@ -1,3 +1,3 @@
 # aero-demo
 This is my first repository
-atour 
+Im aerospace student so new in coding world
